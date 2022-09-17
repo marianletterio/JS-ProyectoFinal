@@ -1,7 +1,7 @@
 let carrito       = [];
 let prendas = [];
 
-const url = '/js/prendas.json';
+const url = '/prendas.json';
 
 fetch(url)
     .then(respuesta => respuesta.json())
