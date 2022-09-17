@@ -6,7 +6,7 @@
         "nombre": "Eyes",
         "precio": 6900,
         "talle": "S - M - L",
-        "img": "media/buzoeyes.jpg"
+        "img": "./media/buzoeyes.jpg"
     },
     {
         "id": 2,
@@ -14,7 +14,7 @@
         "nombre": "Dogs",
         "precio": 14900,
         "talle": "S - M - L",
-        "img": "media/camperadogs.jpg"
+        "img": "./media/camperadogs.jpg"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@
         "nombre": "Jungle",
         "precio": 3900,
         "talle": "S - M - L",
-        "img": "media/remerajungle.jpg"
+        "img": "./media/remerajungle.jpg"
 
     },
     {
@@ -31,7 +31,7 @@
         "nombre": "Daisy",
         "precio": 8900,
         "tall": "S - M - L",
-        "img": "media/camisadaisy.jpg"
+        "img": "./media/camisadaisy.jpg"
 
     },
     {
@@ -40,7 +40,7 @@
         "nombre": "Lazy",
         "precio": 12900,
         "talle": "S - M - L",
-        "img": "media/sweaterlazy.jpg"
+        "img": "./media/sweaterlazy.jpg"
 
     },
     {
@@ -49,6 +49,6 @@
         "nombre": "Patchwork",
         "precio": 10900,
         "talle": "S - M - L",
-        "img": "media/camisapatchwork.jpg"
+        "img": "./media/camisapatchwork.jpg"
     }
 ]
